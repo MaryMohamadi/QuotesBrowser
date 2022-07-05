@@ -13,20 +13,4 @@ This is an app to allows users to keep track of their favourite quotes at FavQs 
 + MVVM
 + SwiftUI
 + Combine
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# QuotesBrowser
-# QuotesBrowser
-# QuotesBrowser
++ Networking

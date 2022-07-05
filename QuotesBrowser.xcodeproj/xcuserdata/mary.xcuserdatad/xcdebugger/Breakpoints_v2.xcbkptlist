@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5B98681E-E1BC-43D1-86BA-571EC25393C0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68A63C6D-786F-4B4A-B08C-5EEDC71D9C32"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QuotesBrowser/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "sendRquest(httpMethod:endpoint:decodingType:body:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C0A8DD6-D04E-4ADA-8A8F-78D242D4930B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QuotesBrowser/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "sendRquest(httpMethod:endpoint:decodingType:body:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8C7C30A-1F64-4408-AA77-BABF30DD9E69"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QuotesBrowser/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "sendRquest(httpMethod:endpoint:decodingType:body:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B8C7C30A-1F64-4408-AA77-BABF30DD9E69 - 4dcdecbf86f5c569"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuotesBrowser.NetworkManager.sendRquest&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Decodable, &#x3c4;_1_0: Swift.Encodable, &#x3c4;_1_1: Swift.Decodable, &#x3c4;_1_1: Swift.Encodable&gt;(httpMethod: Swift.Optional&lt;Swift.String&gt;, endpoint: QuotesBrowser.Endpoint, decodingType: &#x3c4;_1_0.Type, body: Swift.Optional&lt;&#x3c4;_1_1&gt;) -&gt; Combine.AnyPublisher&lt;&#x3c4;_1_0, QuotesBrowser.NetworkError&gt;"
+                  moduleName = "QuotesBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mary/Desktop/Development/Home/QuotesBrowser/QuotesBrowser/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "4370">
+               </Location>
+               <Location
+                  uuid = "B8C7C30A-1F64-4408-AA77-BABF30DD9E69 - 43a25b206f72abf6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Foundation.Data, __C.NSURLResponse) -&gt; Combine.AnyPublisher&lt;&#x3c4;_1_0, QuotesBrowser.NetworkError&gt; in QuotesBrowser.NetworkManager.sendRquest&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Decodable, &#x3c4;_1_0: Swift.Encodable, &#x3c4;_1_1: Swift.Decodable, &#x3c4;_1_1: Swift.Encodable&gt;(httpMethod: Swift.Optional&lt;Swift.String&gt;, endpoint: QuotesBrowser.Endpoint, decodingType: &#x3c4;_1_0.Type, body: Swift.Optional&lt;&#x3c4;_1_1&gt;) -&gt; Combine.AnyPublisher&lt;&#x3c4;_1_0, QuotesBrowser.NetworkError&gt;"
+                  moduleName = "QuotesBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mary/Desktop/Development/Home/QuotesBrowser/QuotesBrowser/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "681">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC8177D0-1191-48F0-A210-43893855FFAA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QuotesBrowser/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "sendRquest(httpMethod:endpoint:decodingType:body:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7ED08B3F-C0A5-4A95-ABF4-2E19814562B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QuotesBrowser/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "sendRquest(httpMethod:endpoint:decodingType:body:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
